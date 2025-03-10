@@ -126,3 +126,7 @@ npm run build
 ```
 
 Os arquivos serão gerados na pasta `dist/`.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 383352d6f9a1ee6c4363335e12b3009e78a1c478
