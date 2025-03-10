@@ -91,6 +91,27 @@ const ProjectCard = ({ project, index }: ProjectCardProps) => {
                   ))}
                 </div>
               )}
+
+              {/* Botão de ver detalhes */}
+              <div className="mt-4 text-center">
+                <span className="inline-flex items-center text-white font-medium">
+                  Ver Detalhes
+                  <svg
+                    className="w-4 h-4 ml-1 transform group-hover:translate-x-1 transition-transform"
+                    fill="none"
+                    stroke="currentColor"
+                    viewBox="0 0 24 24"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth="2"
+                      d="M14 5l7 7m0 0l-7 7m7-7H3"
+                    ></path>
+                  </svg>
+                </span>
+              </div>
             </motion.div>
           </div>
         </div>
