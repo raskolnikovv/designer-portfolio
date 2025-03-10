@@ -2,7 +2,7 @@
 
 Um site moderno e elegante para designers apresentarem seus trabalhos e serviços, com efeitos 3D e animações.
 
-![Designer Portfolio](https://via.placeholder.com/1200x630/121212/FFFFFF?text=Designer+Portfolio)
+![Designer Portfolio](https://media.discordapp.net/attachments/847560951523966977/1348737155379236988/image.png?ex=67d08cdc&is=67cf3b5c&hm=3dfa926f798ffce68a814fdc9b8d4b2f87a535c71dd80c9586226de6b4d67c34&=&format=webp&quality=lossless&width=1120&height=568)
 
 ## Tecnologias Utilizadas
 
