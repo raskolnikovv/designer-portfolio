@@ -127,6 +127,3 @@ npm run build
 
 Os arquivos serão gerados na pasta `dist/`.
 
-## Licença
-
-MIT
